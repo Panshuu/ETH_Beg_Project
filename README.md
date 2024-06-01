@@ -4,7 +4,7 @@ This Solidity program implements a simple token contract named "MyToken" with ba
 
 ## Description
 
-The contract, written in Solidity, defines a token called "Aerons" (abbreviation "ARN"). It includes functions to mint and burn tokens, tracking the total supply and balances of addresses. This project is ideal for beginners looking to understand solidity concepts.
+This contract, written in Solidity, defines a token called "Aerons" (abbreviation "ARN"). It includes functions to mint and burn tokens, tracking the total supply and balances of addresses. This project is ideal for beginners looking to understand solidity concepts.
 
 ## Getting Started
 
@@ -39,4 +39,4 @@ cse.priyanshu.01@gmail.com
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Panshuu/ETH_Beg_Project/blob/main/LICENSE) file for details.
